@@ -2,7 +2,7 @@
 
 An LLM-powered autonomous rover controller for **Kerbal Space Program (KSP)**. The agent connects to KSP via [kRPC](https://krpc.github.io/krpc/), reads live telemetry, and issues drive/brake commands to navigate a rover to a GPS target using a [LangGraph](https://github.com/langchain-ai/langgraph) agent loop backed by OpenAI GPT-4.1-mini.
 
-<video src="Demo.mp4" controls width="100%"></video>
+<video src="[Demo.mp4](https://github.com/user-attachments/assets/87c1d095-3635-4fca-840a-c900d0338e39)" controls width="100%"></video>
 
 ---
 
