@@ -1,4 +1,4 @@
-# KerbalRoverOperator
+# Kerbal Rover Agent
 
 An LLM-powered autonomous rover controller for **Kerbal Space Program (KSP)**. The agent connects to KSP via [kRPC](https://krpc.github.io/krpc/), reads live telemetry, and issues drive/brake commands to navigate a rover to a GPS target using a [LangGraph](https://github.com/langchain-ai/langgraph) agent loop backed by OpenAI GPT-4.1-mini.
 
